@@ -1,0 +1,31 @@
+body{
+  padding: 0; /* creates the space above and below the header*/
+  margin: 0;
+
+  /*background-image: url('BACKGROUND.jpg');
+  background-repeat: no-repeat;
+  background-position: center;*/
+  background-color: #000000
+}
+
+h1{
+
+color: #17202A; /*colour of the text*/
+
+}
+
+.newHeadings{
+  font-family: sans-serif;
+  width: 100%;
+  padding: 10px;
+  background-color: #FDFEFE; /*changes colour of the header*/
+
+}
+footer{
+  padding: 30px; /* footer size*/
+  background-image: url('footer2.jpg');  /*footer image*/
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+
+}
